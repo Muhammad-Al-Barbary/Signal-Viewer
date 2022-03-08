@@ -1,5 +1,6 @@
 # Signal-Viewer
 A multichannel desktop application that views and animate signals and display their spectrogram with multiple options.We designed and created a GUI using tkinter python that displays and animates signals imported from excel sheets (csv).\
+
 The signal viewer supports the following options:\
 1.Up to 3 channels to display signals at once. \
 2.Moving along the x and y axis using sliders. \
