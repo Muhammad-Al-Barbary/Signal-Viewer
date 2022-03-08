@@ -14,7 +14,10 @@ The signal viewer supports the following options:
 9.Exporting graph, spectrogram and some statistical data into a PDF file.
 
 A video showing most of the functionalities:
+
 https://user-images.githubusercontent.com/101192969/157267159-70b12388-7b9f-4886-bb2e-e3cacea0fcd5.mp4
 
+
 A screenshot for the PDF exported:
+
 ![image](https://user-images.githubusercontent.com/101192969/157266849-687f09bd-76ea-4108-ad3d-674f64debe98.png)
