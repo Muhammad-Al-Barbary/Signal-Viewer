@@ -3,15 +3,15 @@ A multichannel desktop application that views and animate signals and display th
 
 We designed and created a GUI using tkinter python that displays and animates signals imported from excel sheets (csv)
 The signal viewer supports the following options:
-1.Up to 3 channels to display signals at once.
-2.Moving along the x and y axis using sliders.
-3.Zooming in and out for better visualization.
-4.Speeding up and down the animation.
-5.Play and Pause the animation.
-6.Hide and show any of the signals.
-7.Show the spectrogram for one of the displayed signals.
-8.Tuning the spectrogram color parameters.
-9.Exporting graph, spectrogram and some statistical data into a PDF file.
+1.Up to 3 channels to display signals at once. \
+2.Moving along the x and y axis using sliders. \
+3.Zooming in and out for better visualization.\
+4.Speeding up and down the animation.\
+5.Play and Pause the animation.\
+6.Hide and show any of the signals.\
+7.Show the spectrogram for one of the displayed signals.\
+8.Tuning the spectrogram color parameters.\
+9.Exporting graph, spectrogram and some statistical data into a PDF file.\
 
 A video showing most of the functionalities:
 
